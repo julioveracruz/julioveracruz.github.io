@@ -564,7 +564,7 @@ input, select, textarea {
 			width: 150px;
 			height: auto;
 			border-radius: 50%;
-			float: right;
+			float: right
 		}
 
 		#header h1 {
@@ -740,13 +740,13 @@ input, select, textarea {
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
 		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
 		bottom: 0;
-		cursor: default;
-		height: 6em;
 		left: 0;
-		line-height: 8em;
-		position: absolute;
-		text-align: center;
+		cursor: default;
 		width: 100%;
+		line-height: 8em;
+		position: relative;
+		text-align: center;
+		font-size: 0.75em;
 	}
 
 /* Wide */
