@@ -560,11 +560,11 @@ input, select, textarea {
 	}
 
 		.avatar {
-			vertical-align: middle;
+			vertical-align: text-bottom;
 			width: 150px;
 			height: auto;
 			border-radius: 50%;
-			float: right
+			float: inline-start;
 		}
 
 		#header h1 {
