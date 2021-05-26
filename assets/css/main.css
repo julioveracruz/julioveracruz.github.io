@@ -547,7 +547,7 @@ input, select, textarea {
 		cursor: default;
 		display: inline-block;
 		opacity: 0;
-		position: relative;
+		position: static;
 		text-align: left;
 		top: -1em;
 		vertical-align: middle;
