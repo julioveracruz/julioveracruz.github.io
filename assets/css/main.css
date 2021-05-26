@@ -554,6 +554,14 @@ input, select, textarea {
 	}
 
 		#header h1 {
+			font-size: 2.50em;
+			font-weight: 900;
+			letter-spacing: 0em;
+			line-height: 1em;
+		}
+
+		#header h2 {
+			color: #86A56A;
 			font-size: 4.35em;
 			font-weight: 900;
 			letter-spacing: 0em;
