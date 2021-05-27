@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #505050;
+		color: #404040;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -553,7 +553,7 @@ input, select, textarea {
 		vertical-align: middle;
 		width: 80%;
 		overflow-y: auto;
-		padding: 3% 3% 1%;
+		padding: 3% 4% 1%;
 		padding-bottom: 1%;
 		background-color: rgba(255, 255, 255, 0.3);
   		border-radius: 25px;
