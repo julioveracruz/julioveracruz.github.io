@@ -562,11 +562,11 @@ input, select, textarea {
 	}
 
 		.avatar {
-			vertical-align: text-bottom;
+			vertical-align: middle;
 			width: 200px;
 			height: auto;
 			border-radius: 50%;
-			float: inline-start;
+			float: none;
 		}
 
 		#header h1 {
