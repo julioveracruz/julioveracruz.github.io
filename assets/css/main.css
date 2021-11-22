@@ -1004,6 +1004,7 @@ input, select, textarea {
 	/* Header */
 		#header {
 			text-align: left;
+			backdrop-filter: blur(3px);
 
 		}
 
