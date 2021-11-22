@@ -1108,7 +1108,11 @@ input, select, textarea {
 		}
 
 	/* Header */
+		#header {
+			text-align: left;
+			backdrop-filter: blur(3px);
+		}
 
-		#header nav {
+			#header nav {
 			padding: 0 1em;
-		} }
+		} } 
