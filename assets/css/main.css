@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #404040;
+		color: #000000;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -557,7 +557,7 @@ input, select, textarea {
 		padding-bottom: 1%;
 		background-color: rgba(255, 255, 255, 0.3);
   		border-radius: 25px;
-		backdrop-filter: blur(3px);
+		backdrop-filter: blur(25px);
 		margin: 20px 0 20px;
 	}
 
@@ -1004,7 +1004,7 @@ input, select, textarea {
 	/* Header */
 		#header {
 			text-align: left;
-			backdrop-filter: blur(3px);
+			backdrop-filter: blur(25px);
 
 		}
 
@@ -1110,7 +1110,7 @@ input, select, textarea {
 	/* Header */
 		#header {
 			text-align: left;
-			backdrop-filter: blur(3px);
+			backdrop-filter: blur(25px);
 		}
 
 			#header nav {
